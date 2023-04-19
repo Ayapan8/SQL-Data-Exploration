@@ -1,4 +1,3 @@
-use[Data Exploration]
 select * from CovidDeaths$
 where continent is not null
 order by 3,4
